@@ -50,3 +50,11 @@ Examples of application:
 
 ## Creating a JSON (from a dictionary or a string)
 
+
+## Status code 
+
+200's - GOOD
+300's - Authethication mission
+400's - Not found (frontend error, your path is wrong)
+500's - Internal server error (backend messed up )
+
